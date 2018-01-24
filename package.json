@@ -1,0 +1,29 @@
+{
+  "name": "Container Inspection",
+  "description": "Container Inspection desktop version",
+  "version": "1.0.0",
+  "nodejs": true,
+  "main": "src/view/index.html",
+  "node-main": "node_js/node_main.js",
+  "window": {
+    "title": "Container Inspection",
+    "icon": "icon.png",
+    "toolbar": true,
+    "always-on-top": false,
+    "frame": true,
+    "show_in_taskbar": true,
+    "position": "center",
+    "resizable": true,
+    "fullscreen": false,
+    "width": 1088,
+    "height": 700,
+    "min_width": 1088,
+    "min_height": 700
+  },
+  "webkit": {
+    "plugin": true
+  },
+  "dependencies": {
+
+  }
+}

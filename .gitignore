@@ -1,0 +1,5 @@
+# Non-project-specific build files:
+/.idea/
+/bower_components/
+
+

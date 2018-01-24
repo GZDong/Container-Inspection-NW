@@ -1,0 +1,21 @@
+{
+  "name": "Container Inspection",
+  "description": "Container Inspection desktop version",
+  "main": "src/view/index.html",
+  "authors": [
+    "IVAN WANG (EUCD-EUC-ISD-OOCLL/ZHA) <ivan.wang@oocl.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "bootstrap": "^4.0.0"
+  }
+}
