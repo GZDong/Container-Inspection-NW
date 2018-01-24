@@ -8,7 +8,6 @@
   "window": {
     "title": "Container Inspection",
     "icon": "icon.png",
-    "toolbar": true,
     "always-on-top": false,
     "frame": true,
     "show_in_taskbar": true,
