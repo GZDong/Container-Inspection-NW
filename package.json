@@ -23,6 +23,6 @@
     "plugin": true
   },
   "dependencies": {
-
+    "request": "^2.83.0"
   }
 }
